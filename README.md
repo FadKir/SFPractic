@@ -47,7 +47,3 @@
 :arrow_up:[к оглавлению](https://github.com/FadKir/SFPractic/tree/master/README.md#Оглавление)
 
 
-### Выводы:  
-....
-
-:arrow_up:[к оглавлению](https://github.com/FadKir/SFPractic/tree/master/README.md#Оглавление)
